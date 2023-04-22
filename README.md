@@ -6,7 +6,7 @@ RoFinder is a game sniper chrome extension, the entire source code is based on a
 
 **Created by Matthew, malicious code removed by spectro#0001, fixed by me!**
 
-## To install RoFinder (Tested on Google Chrome, could also work on other browsers too):
+## To install RoFinder (Tested on Chromium browsers):
   1. Go to your extensions.
   2. On the top right click “Developer Mode”.
   3. On the top left click “Load Unpacked”.
