@@ -4,7 +4,9 @@ Roblox decided to delete the endpoints this plugin used. I have fixed it with ne
 
 RoFinder is a game sniper chrome extension, the entire source code is based on a extension called “RoSearch” that was recently used to infect thousands of users but RoFinder has the original source of RoSearch without the infected code part.
 
-**Created by Matthew, malicious code removed by spectro#0001, fixed by me**
+**Created by Matthew**
+**Malicious code removed by spectro#0001**
+**Fixed by me**
 
 ## To install RoFinder (Tested on Google Chrome, could also work on other browsers too):
   1. Go to your extensions.
