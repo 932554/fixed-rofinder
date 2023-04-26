@@ -2,7 +2,7 @@
 
 Roblox decided to delete the endpoints this plugin used. I have fixed it with newer endpoints (may be unstable now)
 
-RoFinder is a experience sniper chrome extension, the entire source code is based on a extension called “BloxSearch” that was recently used to infect thousands of users but RoFinder has the original source of BloxSearch without the infected code part.
+RoFinder is an experience sniper chrome extension, the entire source code is based on a extension called “BloxSearch” that was used to infect thousands of users but RoFinder has the original source of BloxSearch without the infected code part.
 
 **Created by Matthew, malicious code removed by spectro#0001, fixed by me!**
 
